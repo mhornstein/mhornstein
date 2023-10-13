@@ -4,7 +4,7 @@
 - 2nd year M.Sc. Computer Sciences student (in Data Sciences and Artificial Intelligence track) at Bar-Ilan University.
 - B.Sc. in Computer Science from Ben-Gurion University.
   
-- **⚡ Fun fact**: I am also a certified Computer Science teacher and a certified Graphic Designer.
+- **⚡ Fun fact**: I'm also a certified Computer Science teacher and a certified Graphic Designer, you know, for all that knowledge-sharing jazz 😉.
   
 <h3 align="left">You can find me in:</h3>  
 <p align="left">  
