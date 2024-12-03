@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Maor 👋</h1>  
 <h3 align="center">I am passionate about data, tech, and the Joy of sharing knowledge</h3>  
 
-- M.Sc. Computer Sciences student (in Data Sciences and Artificial Intelligence track) at Bar-Ilan University.
+- M.Sc. in Computer Sciences (in Data Sciences and Artificial Intelligence track) from Bar-Ilan University.
 - B.Sc. in Computer Science from Ben-Gurion University.
   
 - **⚡ Fun fact**: I'm also a certified Computer Science teacher and a certified Graphic Designer, you know, for all that knowledge-sharing jazz 😉.
